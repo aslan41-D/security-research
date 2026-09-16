@@ -1,4 +1,4 @@
-# Cybersecurity Notes
+# Cybersecurity Researchs
 
 A collection of my research, tool reviews, and write-ups on cybersecurity topics.
 
