@@ -1,6 +1,6 @@
 # Cybersecurity Researchs
 
-A collection of my research, tool reviews, and write-ups on cybersecurity topics.
+A collection of my research, tool reviews , cve and write-ups on cybersecurity topics.
 
 ## Articles
 
