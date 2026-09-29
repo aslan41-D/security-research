@@ -4,7 +4,7 @@
 
 ## 🇹🇷 Türkçe
 
-### 📌 Giriş
+###  Giriş
 
 Daha önce Lynis ile bir tarama yaptığınızı ve sisteminizde bir firewall (güvenlik duvarı) bulunmadığını varsayarak, bu yazıda adım adım UFW nasıl kurulur ve yapılandırılır, bunu öğreneceğiz.
 
